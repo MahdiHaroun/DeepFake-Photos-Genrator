@@ -1,3 +1,30 @@
+# 🤖 DeepFake Photos Generator
+
+This project implements a Generative Adversarial Network (GAN) that creates realistic human face images. The model is trained on a dataset of human faces and can generate new, artificial faces that don't belong to real people.
+
+### ☁️ Trained on Azure Cloud Using NVIDIA® T4 GPU ⚡
+
+## 🧠 Project Overview
+
+The GAN consists of two neural networks:
+- 🧬 **Generator**: Creates synthetic images from random noise
+- 🕵️‍♂️ **Discriminator**: Tries to distinguish between real and generated images
+
+Through adversarial training, the generator learns to create increasingly realistic images that can fool the discriminator.
+
+## 📁 Repository Structure
+DeepFake-Photos-Genrator/
+├── README.md
+├── 50K-Model/
+│ ├── DeepFake-Genrator-50k.zip
+│ ├── discriminator_epoch_150.keras
+│ ├── discriminator_epoch_200.keras
+│ ├── generator_50k_epoch_150.keras
+│ ├── generator_epoch_200.keras
+│ ├── Load-Model.ipynb
+│ ├── Model.ipynb
+│ ├── output_sample.png
+│ └── README.md
 
 ## 📦 Requirements
 
