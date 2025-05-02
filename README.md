@@ -2,6 +2,8 @@
 
 This project implements a Generative Adversarial Network (GAN) that creates realistic human face images. The model is trained on a dataset of human faces and can generate new, artificial faces that don't belong to real people.
 
+### Trained on Azure Cloud Using NVIDIA® T4 GPU 
+
 ## Project Overview
 
 The GAN consists of two neural networks:
@@ -44,8 +46,10 @@ To generate new deepfake images:
 
 ## Model Details
 
+- The Model Used 50000 images for Training 
+- GPU Used NVIDIA® T4 GPU
 - The generator uses a latent space of 100 dimensions
-- The model was trained for 200 epochs
+- The model was trained for 150 , 200 epochs
 - Multiple checkpoints were saved (at 150 and 200 epochs)
 - The generated images are upscaled to 260×260 pixels using bicubic interpolation
 
