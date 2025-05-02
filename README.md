@@ -13,6 +13,8 @@ The GAN consists of two neural networks:
 Through adversarial training, the generator learns to create increasingly realistic images that can fool the discriminator.
 
 ## 📁 Repository Structure
+
+```
 DeepFake-Photos-Genrator/
 ├── README.md
 ├── 50K-Model/
@@ -25,6 +27,8 @@ DeepFake-Photos-Genrator/
 │ ├── Model.ipynb
 │ ├── output_sample.png
 │ └── README.md
+
+```
 
 ## 📦 Requirements
 
