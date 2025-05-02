@@ -1,0 +1,38 @@
+Creative Commons Attribution-NonCommercial 4.0 International Public License
+
+Copyright (c) 2024 Mahdi M. Haroun
+
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial 4.0 International Public License ("Public License"). To the extent this Public License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
+
+Section 1 – Definitions:
+
+- **Licensed Material** means the artistic or literary work, database, or other material to which the Licensor applied this Public License.
+- **Licensed Rights** means the rights granted to You subject to the terms and conditions of this Public License.
+- **Share** means to copy and redistribute the material in any medium or format.
+- **Adapt** means to remix, transform, and build upon the material.
+
+Section 2 – Scope:
+
+- **License Grant:** You are granted the rights to Share and Adapt the material for **non-commercial purposes** only.  
+- **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+- **Non-Commercial:** You may not use the material for **commercial purposes**.  
+- **No Additional Restrictions:** You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Section 3 – License Conditions:
+
+1. **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+2. **NonCommercial** — You may not use the material for commercial purposes.  
+3. **No Additional Restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Section 4 – Disclaimer of Warranties and Limitation of Liability:
+
+- The material is provided "as-is" without any warranty.  
+- Licensor is not liable for any damages arising from the use of the material.
+
+Section 5 – Termination:
+
+- The license is terminated automatically if you violate the terms.
+
+---
+
+This license is based on [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).
