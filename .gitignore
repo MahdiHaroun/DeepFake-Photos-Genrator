@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+10K-Model/discriminator_epoch_150.keras
+10K-Model/discriminator_epoch_200.keras
+10K-Model/generator_epoch_150.keras
+10K-Model/generator_epoch_200.keras
+50K-Model/discriminator_epoch_150.keras
+50K-Model/discriminator_epoch_200.keras
+50K-Model/generator_50k_epoch_150.keras
+.gitignore
+50K-Model/generator_epoch_200 .keras
