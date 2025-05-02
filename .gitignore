@@ -181,3 +181,4 @@ cython_debug/
 50K-Model/generator_50k_epoch_150.keras
 .gitignore
 50K-Model/generator_epoch_200 .keras
+50K-Model/DeepFake-Genrator-50k.zip
