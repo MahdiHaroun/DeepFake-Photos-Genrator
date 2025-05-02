@@ -4,6 +4,7 @@ This project implements a Generative Adversarial Network (GAN) that creates real
 
 ### Trained on Azure Cloud Using NVIDIA® T4 GPU 
 
+
 ## Project Overview
 
 The GAN consists of two neural networks:
